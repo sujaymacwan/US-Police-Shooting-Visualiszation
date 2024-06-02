@@ -29,6 +29,12 @@ The US Police Shooting Visualization project delves into the multifaceted landsc
     - Targeted community policing initiatives, enhanced training programs, and improved community engagement efforts could help mitigate racial disparities and foster trust between law enforcement and communities.
     - Investments in technology, resource optimization, and data-driven decision-making could streamline law enforcement operations, improve response times, and enhance overall policing effectiveness.
     - Continuous monitoring of key performance metrics, coupled with proactive measures to address underlying systemic issues, is essential for fostering accountability, transparency, and positive change within law enforcement agencies.
+
+## Sample Visualizations
+(d1.png)
+(d2.png)
+(sc1.png)
+
 ## Conclusion:
 In conclusion, the US Police Shooting Visualization project offers a nuanced understanding of the complex dynamics surrounding incidents involving law enforcement officers in the United States. By leveraging data visualization techniques and rigorous analysis, this project aims to inform evidence-based decision-making, drive policy reforms, and contribute to efforts aimed at promoting fairness, justice, and public safety.
 
