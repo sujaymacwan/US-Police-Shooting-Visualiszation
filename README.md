@@ -31,9 +31,9 @@ The US Police Shooting Visualization project delves into the multifaceted landsc
     - Continuous monitoring of key performance metrics, coupled with proactive measures to address underlying systemic issues, is essential for fostering accountability, transparency, and positive change within law enforcement agencies.
 
 ## Sample Visualizations
-[Visualization 1](d1.png)
-[Visualization 2](d2.png)
-[Visualization 3](sc1.png)
+![Visualization 1](d1.png)
+![Visualization 2](d2.png)
+![Visualization 3](sc1.png)
 
 ## Conclusion:
 In conclusion, the US Police Shooting Visualization project offers a nuanced understanding of the complex dynamics surrounding incidents involving law enforcement officers in the United States. By leveraging data visualization techniques and rigorous analysis, this project aims to inform evidence-based decision-making, drive policy reforms, and contribute to efforts aimed at promoting fairness, justice, and public safety.
